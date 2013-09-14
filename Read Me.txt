@@ -1,0 +1,24 @@
+HTML Master 1.0
+----------------
+
+This is the first version of HTML Master which is a free software used to create static HTML web 
+pages in Urdu, Persian and Arabic. Support for other languages such as Sindhi, Pashtu, BalochiBalochimiri and Shina will be provided in later versions. Double click on Urdu_HTML_Master_V1.0.jar file to run the program.
+
+DOWNLOAD
+---------
+Latest Urdu HTML Master is avaiable for on source forge at https://sourceforge.net/projects/urduhtmlmaster/ 
+For more features and bug fixes make sure to download the latest version of this software from above the mentioned link.
+
+REQUIREMENTS
+-------------
+Java Runtime Environment (JRE 1.4) or higher is required to run this software. If JRE is not 
+installed you can download and install it freely from sun website http://www.java.sun.com/ 
+
+
+LICENCE
+--------
+This software is distributed under GPL licence V3. You can freely use it for personal and 
+commercial purposes and distribute it. For more information refer to licence-gpl-3.0.txt file.
+
+For comments and queries please email to dasatti@gmail.com
+
